@@ -1,0 +1,15 @@
+{
+  "name": "sprint_01",
+  "version": "1.0.0",
+  "description": "this is the first sprint",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Batul Iraki",
+  "license": "ISC",
+  "dependencies": {
+    "http-status-codes": "^2.2.0",
+    "t": "^0.5.1"
+  }
+}
